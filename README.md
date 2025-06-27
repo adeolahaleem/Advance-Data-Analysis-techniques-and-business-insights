@@ -34,8 +34,6 @@ A comprehensive data analytics project exploring customer sales behavior, churn 
 ## 🔗 Deliverables
 
 - [📈 Tableau Dashboard]([https://public.tableau.com/your-link-here](https://public.tableau.com/views/Advance-Data-Analysis-techniques-and-business-insights/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [📄 Full Report/Notebook](Sales_Forecasting.ipynb)
-- [📁 Dataset](customer_data_sample.csv) *(or include link/instructions)*
 
 ---
 
