@@ -37,15 +37,7 @@ A comprehensive data analytics project exploring customer sales behavior, churn 
 
 ---
 
-## 📥 How to Run
 
-1. Clone this repo
-2. Open `Sales_Forecasting.ipynb` in Jupyter or VS Code
-3. Install requirements:  
-   `pip install pandas scikit-learn matplotlib seaborn`
-4. Run each cell to follow the full analysis
-
----
 
 ## 📌 Insights & Business Impact
 
